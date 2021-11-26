@@ -10,11 +10,11 @@
 > >  ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-red?style=flat&logo=Scala&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-orange?style=flat&logo=Shell&logoColor=white)
 >
 > ###  🖥IDE
->> ![Idea](https://img.shields.io/badge/IDE-Idea-brightgreen) ![VScode](https://img.shields.io/badge/IDE-VScode-blue)
+>> [![Idea](https://img.shields.io/badge/IDE-Idea-brightgreen)](https://www.jetbrains.com/idea/) [![VScode](https://img.shields.io/badge/IDE-VScode-blue)](https://code.visualstudio.com/)
 
 - 🔭 I’m currently working on adaspace.
 - 📸 I love photography.
-- 📝 My [Blog website](https://blog.frost-s.tk/) 
+- 📝 [![Blog: 闲云野鹤 (shields.io)](https://img.shields.io/badge/Blog-闲云野鹤-%23972D43)](https://blog.frost-s.tk/). 
 - 🤪```make bug machine```
 > #### Power by self-discipline ☕
 

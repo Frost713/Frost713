@@ -4,7 +4,7 @@
 > 💻 The world of 0 1
 ------
 >
-> ###  programming language
+> ###  Programming language
 > > <u> Java Scala Python Shell </u>  
 >
 > ###  IDE

@@ -7,10 +7,10 @@
 ------
 >
 > ###  ⌨Programming language
-> > <u> Java Scala Python Shell </u>  
+> >  ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-red?style=flat&logo=Scala&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-orange?style=flat&logo=Shell&logoColor=white)
 >
 > ###  🖥IDE
->> <u> Idea VScode </u> 
+>> ![Idea](https://img.shields.io/badge/IDE-Idea-brightgreen) ![VScode](https://img.shields.io/badge/IDE-VScode-blue)
 
 
 

@@ -7,7 +7,7 @@
 
 >
 > ###  ⌨Programming techniques
-> >  [![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white)](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/) [![Scala](https://img.shields.io/badge/-Scala-red?style=flat&logo=Scala&logoColor=white)](https://www.scala-lang.org/) [![Spring](https://img.shields.io/badge/-Shell-g?style=flat&logo=Spring&logoColor=white)](https://spring.io/)
+> >  [![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white)](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)](https://www.python.org/) [![Scala](https://img.shields.io/badge/-Scala-red?style=flat&logo=Scala&logoColor=white)](https://www.scala-lang.org/) [![Spring](https://img.shields.io/badge/-Shell-g?style=flat&logo=Spring&logoColor=white)](https://spring.io/)
 >
 > ###  🖥IDE
 >> [![Idea](https://img.shields.io/badge/IDE-Idea-brightgreen)](https://www.jetbrains.com/idea/) [![VScode](https://img.shields.io/badge/IDE-VScode-blue)](https://code.visualstudio.com/)

@@ -1,7 +1,7 @@
-## Hi,I'm Frost 👋👩‍🚀
+## 👋Hi,I'm Frost 👩‍🚀
 
 
-> 💻 
+> 💻 The world of 0 1
 ------
 >
 > ###  programming language
@@ -19,7 +19,7 @@
 - 🤪```make bug machine```
 > #### Power by self-discipline ☕
 
-+ <!--
+<!--
   **Frost713/Frost713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

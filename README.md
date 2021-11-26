@@ -1,13 +1,13 @@
 ## 👋Hi,I'm Frost 👩‍🚀
 
 
-> 💻 The world of 0 1
+> ## 💻 The world of 0 1
 ------
 >
-> ###  Programming language
+> ###  ⌨Programming language
 > > <u> Java Scala Python Shell </u>  
 >
-> ###  IDE
+> ###  🖥IDE
 >> <u> Idea VScode </u> 
 
 

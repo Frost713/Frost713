@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on adaspace.
 - 📸 I love photography.
-- 📝 [![Blog: 闲云野鹤 (shields.io)](https://img.shields.io/badge/Blog-闲云野鹤-%23972D43)](https://blog.frost-s.tk/). 
+- 📝 [![Blog: 闲云野鹤 (shields.io)](https://img.shields.io/badge/Blog-闲云野鹤-%23972D43)](https://blog.frost-s.com/). 
 - 🤪```make bug machine```
 > #### Power by self-discipline ☕
 
